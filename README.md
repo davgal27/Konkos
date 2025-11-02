@@ -1,4 +1,5 @@
 # Konkos
+![konkos image](konkos.png)
 A simple web-based incremental clicker game where the player builds apartments and makes money
 
 A preview for the game can be found at https://youtu.be/bbzg2t5pR0o please note that autoclick was enabled to reduce the length of the video, and speed of progress is much shorter than displayed. 
